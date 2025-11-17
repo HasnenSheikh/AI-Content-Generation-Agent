@@ -6,7 +6,7 @@ Generate high-quality content such as blogs, emails, LinkedIn posts, product des
 ---
 
 ## 🌐 Streamlit App  
-Live Demo: **[<AI Content Generation Agent>](https://ai-content-generation-agent-8hvhuxli6arf7mxzurkdrx.streamlit.app/)**  
+Live Demo: **[AI Content Generation Agent](https://ai-content-generation-agent-8hvhuxli6arf7mxzurkdrx.streamlit.app/)**  
 <br>
 
 ---
