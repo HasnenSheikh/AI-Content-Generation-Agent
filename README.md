@@ -1,20 +1,42 @@
-# ✍️ AI Content Generation Agent
-A lightweight Streamlit web app that generates high-quality written content using Groq LLMs.
-Create blog posts, LinkedIn posts, emails, product descriptions, and more—customized by topic, audience, tone, and length.
+# ✍️ AI Content Generation Agent  
+A simple, fast, and customizable AI-powered content generator built using **Streamlit** and **Groq LLMs**.  
+Generate high-quality content such as blogs, emails, LinkedIn posts, product descriptions, and more — with full control over **topic, audience, tone, format, and length**.  
+<br>
 
-🚀 Features
+---
 
-Generate content instantly using Groq’s fast Llama models
-Choose format, tone, audience, and word count
-Clean, responsive Streamlit UI
-Built-in content editor and download as .txt button
-Modular code structure (easy to extend or personalize)
+## 🌐 Streamlit App  
+Live Demo: **[<AI Content Generation Agent>](https://ai-content-generation-agent-8hvhuxli6arf7mxzurkdrx.streamlit.app/)**  
+<br>
 
+---
 
-🛠️ Tech Stack
+## 🚀 Features  
+- Generate content instantly using Groq’s Llama models  
+- Choose **format**, **tone**, **audience**, and **word count**  
+- Simple and clean Streamlit user interface  
+- Download generated content as a `.txt` file  
+- Modular code (easy to customize or extend)  
+<br>
 
-Python
-Streamlit
-Groq API (Llama 3 models)
-python-dotenv
-LangChain Core (PromptTemplate only)
+---
+
+## 🛠 Tech Stack  
+- **Python**  
+- **Streamlit**  
+- **Groq API** (Llama 3 models)  
+- **python-dotenv**  
+- **LangChain Core** (PromptTemplate only)  
+<br>
+
+---
+
+## 📁 Project Structure  
+```
+.
+├── app.py # Streamlit UI
+├── content_agent.py # Handles Groq API calls
+├── content_prompt.py # Prompt template
+├── requirements.txt # Project dependencies
+└── README.md
+```
